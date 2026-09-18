@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "horizon",
+    "number": "01",
+    "name": "Open Horizon",
+    "category": "Centered coast · frosted navigation",
+    "group": "Light",
+    "layout": "horizon",
+    "header": "glass",
+    "dark": false,
+    "image": "/assets/homepage-review/swarm-coast.webp",
+    "film": "/assets/homepage-review/swarm-coast-motion.mp4",
+    "story": "launch",
+    "result": "brief",
+    "headline": "Ideas need\nopen space.",
+    "subtitle": "Your agents, apps, and ideas. Together in one open workspace.",
+    "thesis": "A centered opening, a straight native workspace, and a coast that stays continuous as the work expands.",
+    "source": "Tasklify / Nexora",
+    "borrow": "Cohere’s substantial product scale. Native OpenSwarm split views and composer.",
+    "palette": [
+      "#f7f9fa",
+      "#152b36",
+      "#b6cbd6"
+    ],
+    "signature": "The centered composer opens downward into a full workspace. A soft foreground veil clears as context appears.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The opening",
+        "title": "Ideas need open space.",
+        "body": "A centered coastal opening with a single native composer rising from the lower edge.",
+        "motion": "The coast moves continuously while the anchored composer opens into the next chapter.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "menu",
+        "name": "The platform",
+        "title": "Everything has a place.",
+        "body": "A spacious menu makes agents, apps, workflows and the canvas easy to understand.",
+        "motion": "The frosted navigation expands from its own edge; the scene behind it gently defocuses.",
+        "action": "Open Platform and explore a capability"
+      },
+      {
+        "kind": "request",
+        "name": "The first thought",
+        "title": "Start with what you want to do.",
+        "body": "Bring a question, a file, or an unfinished idea.",
+        "motion": "The composer stays anchored while the conversation grows beneath it.",
+        "action": "Run the sample launch request"
+      },
+      {
+        "kind": "canvas",
+        "name": "The bigger picture",
+        "title": "See the whole idea take shape.",
+        "body": "Conversation, research and the launch brief stay connected.",
+        "motion": "One large flat workspace opens into two clear panes. No tilting or tiny floating documents.",
+        "action": "Switch between Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The result",
+        "title": "A plan you can actually use.",
+        "body": "Review the launch plan alongside the sources that shaped it.",
+        "motion": "The document expands from its existing pane while surrounding context recedes into soft focus.",
+        "action": "Inspect the brief or download it"
+      },
+      {
+        "kind": "closing",
+        "name": "The next idea",
+        "title": "Make room for your next idea.",
+        "body": "Research, create and get things done with OpenSwarm.",
+        "motion": "The workspace lowers into the landscape. A compact useful footer closes the page.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "hero",
+      "composition": "A centered coastal opening with a single native composer rising from the lower edge.",
+      "motion": "The coast moves continuously while the anchored composer opens into the next chapter."
+    }
+  },
+  {
+    "id": "night",
+    "number": "02",
+    "name": "Night School",
+    "category": "Dark ASCII · dense living field",
+    "group": "ASCII",
+    "layout": "night",
+    "header": "line",
+    "dark": true,
+    "graphic": "flock",
+    "story": "research",
+    "result": "table",
+    "headline": "Great work\nthinks together.",
+    "subtitle": "Bring every source, every question and every agent into the same conversation.",
+    "thesis": "A dense typographic flock behaves like collective intelligence. Native dark product surfaces provide the visual weight the previous version lacked.",
+    "source": "Capy / Speakeasy",
+    "borrow": "Actual glyph artwork; OpenSwarm tool groups and evidence tables.",
+    "palette": [
+      "#0c1013",
+      "#f1f1e9",
+      "#819b9b"
+    ],
+    "signature": "The character field parts around the work, then gathers at the evidence that matters.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "Collective thought",
+        "title": "Great work thinks together.",
+        "body": "A vast character flock crosses the upper field. A low, centered headline belongs to the dark negative space beneath it.",
+        "motion": "Thousands of individual glyphs travel across a dense, continuous flock; the copy stays still.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "Evidence first",
+        "title": "Every answer has a starting point.",
+        "body": "Bring interviews, notes and web research into view.",
+        "motion": "Source rows reveal in order; the glyph field shifts toward the active source.",
+        "action": "Select a source and inspect its content"
+      },
+      {
+        "kind": "request",
+        "name": "Ask a better question",
+        "title": "Give your research a direction.",
+        "body": "Compare the alternatives and explain what matters.",
+        "motion": "A legible tool group opens under the request; the input remains fixed.",
+        "action": "Run the comparison example"
+      },
+      {
+        "kind": "canvas",
+        "name": "Work in parallel",
+        "title": "Different perspectives. Shared context.",
+        "body": "The research and synthesis agents work from the same evidence.",
+        "motion": "Dark panes separate horizontally as connecting lines clarify their relationship.",
+        "action": "Focus either side of the workspace"
+      },
+      {
+        "kind": "artifact",
+        "name": "Make the call",
+        "title": "The useful differences, in one place.",
+        "body": "Compare the options with their sources still within reach.",
+        "motion": "A bright table resolves against the dark field, without replacing the workspace.",
+        "action": "Inspect the comparison table"
+      },
+      {
+        "kind": "closing",
+        "name": "Keep going",
+        "title": "Good ideas deserve company.",
+        "body": "Give your next question room to become something useful.",
+        "motion": "The character wave settles around a single centered call to action.",
+        "action": "Return to the first question"
+      }
+    ],
+    "opening": {
+      "mode": "ascii",
+      "composition": "A vast character flock crosses the upper field. A low, centered headline belongs to the dark negative space beneath it.",
+      "motion": "Thousands of individual glyphs travel across a dense, continuous flock; the copy stays still."
+    }
+  },
+  {
+    "id": "living",
+    "number": "03",
+    "name": "Living Form",
+    "category": "Spectral paper · native light surfaces",
+    "group": "Light",
+    "layout": "living",
+    "header": "island",
+    "dark": false,
+    "image": "/assets/storyboards/living.webp",
+    "film": "/assets/storyboards/living-motion.mp4",
+    "story": "writing",
+    "result": "brief",
+    "headline": "More minds.\nNew possibilities.",
+    "subtitle": "A place to turn scattered thinking into work that takes shape.",
+    "thesis": "Spectral paper becomes a consistent framing material: opening, source collection, workspace and closing all belong to the same identity.",
+    "source": "Meristem",
+    "borrow": "Native file tabs; Cohere’s large product details.",
+    "palette": [
+      "#fafaf8",
+      "#26262b",
+      "#b6c3ee",
+      "#dfb9da"
+    ],
+    "signature": "The artwork unfolds at the edges while native tabs expand into a document spread.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "Potential",
+        "title": "More minds. New possibilities.",
+        "body": "An oversized spectral paper form fills the lower-right field. The centered headline and open paper space carry the opening without an app window.",
+        "motion": "The filmed paper form slowly unfolds; its framing material returns around the later native workspace.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "A living system",
+        "title": "Tools that belong together.",
+        "body": "Explore the canvas, agents and apps as one connected product.",
+        "motion": "The island navigation grows into a two-column product index with a spectral preview.",
+        "action": "Try the interactive mega menu"
+      },
+      {
+        "kind": "sources",
+        "name": "Gather the pieces",
+        "title": "Start with the material you have.",
+        "body": "Notes, conversations and references become shared context.",
+        "motion": "Files slide into a single native source drawer instead of floating as decorative cards.",
+        "action": "Inspect the source drawer"
+      },
+      {
+        "kind": "canvas",
+        "name": "Find the shape",
+        "title": "Your thinking, side by side.",
+        "body": "Develop the outline while the original material stays close.",
+        "motion": "The native window widens into a joined conversation and document spread.",
+        "action": "Toggle Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "Make it yours",
+        "title": "A first draft worth working on.",
+        "body": "Edit the structure, inspect the source and keep writing.",
+        "motion": "The document surface comes forward; soft optical material frames its edges.",
+        "action": "Switch between document and source"
+      },
+      {
+        "kind": "closing",
+        "name": "Next possibility",
+        "title": "See what takes shape next.",
+        "body": "One workspace for ideas at every stage.",
+        "motion": "The fold opens wider around a compact footer and centered action.",
+        "action": "Start again"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "An oversized spectral paper form fills the lower-right field. The centered headline and open paper space carry the opening without an app window.",
+      "motion": "The filmed paper form slowly unfolds; its framing material returns around the later native workspace."
+    }
+  },
+  {
+    "id": "common",
+    "number": "04",
+    "name": "Common Ground",
+    "category": "Monochrome · product-led typography",
+    "group": "Graphic",
+    "layout": "common",
+    "header": "solid",
+    "dark": false,
+    "graphic": "grid",
+    "story": "build",
+    "result": "app",
+    "headline": "One place.\nMore possible.",
+    "subtitle": "Work with AI in a workspace built to hold the whole project.",
+    "thesis": "Large confident typography frames real work. The visual system comes from the product’s layout, with no ornamental environment.",
+    "source": "Cohere / native OpenSwarm",
+    "borrow": "Expanding media from supplied motion references; readable native interface scale. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "palette": [
+      "#fbfbfa",
+      "#18191b",
+      "#d9dadb"
+    ],
+    "signature": "A typographic opening gives way to a large product window; tabs become full work surfaces.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The premise",
+        "title": "One place. More possible.",
+        "body": "Oversized centered typography hands directly into a broad native conversation and working task app.",
+        "motion": "The shared window expands under the headline; tabs and the task state remain interactive.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "apps",
+        "name": "The building blocks",
+        "title": "Use the tools the work needs.",
+        "body": "Connect your apps or create a focused tool for the task.",
+        "motion": "A native app library expands under the headline; selecting an app changes the detail pane.",
+        "action": "Choose an app"
+      },
+      {
+        "kind": "request",
+        "name": "The brief",
+        "title": "Describe what you want to build.",
+        "body": "An idea becomes a visible plan with clear steps.",
+        "motion": "The supplied ToolUI Plan updates as the request moves forward.",
+        "action": "Run the sample build"
+      },
+      {
+        "kind": "film",
+        "name": "The actual canvas",
+        "title": "This is OpenSwarm.",
+        "body": "An actual product recording shows the spatial workspace.",
+        "motion": "The full-width recording takes over the page at readable scale.",
+        "action": "Play or pause the native recording"
+      },
+      {
+        "kind": "artifact",
+        "name": "The working result",
+        "title": "An idea you can use.",
+        "body": "A focused tool opens beside the conversation that created it.",
+        "motion": "The browser preview expands in place, keeping its tabs and controls.",
+        "action": "Interact with the sample app"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "The invitation",
+        "title": "Bring the whole idea.",
+        "body": "There is room for the work around it.",
+        "motion": "A crisp black closing section uses a small brand mark and useful navigation.",
+        "action": "Return to the beginning"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "canvas",
+      "composition": "Oversized centered typography hands directly into a broad native conversation and working task app.",
+      "motion": "The shared window expands under the headline; tabs and the task state remain interactive."
+    }
+  },
+  {
+    "id": "monument",
+    "number": "05",
+    "name": "Monument",
+    "category": "Cobalt architecture · aperture reveal",
+    "group": "Dark",
+    "layout": "monument",
+    "header": "line",
+    "dark": true,
+    "image": "/assets/storyboards/monument.webp",
+    "story": "research",
+    "result": "table",
+    "headline": "Think beyond\nthe frame.",
+    "subtitle": "A workspace that opens up as far as your thinking goes.",
+    "thesis": "The architectural opening is a mechanism: it frames the product, guides expansion, and returns in the closing composition.",
+    "source": "Cobalt Dither Monumentalism",
+    "borrow": "Tasklify’s clear foreground; native OpenSwarm table and context anatomy. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "palette": [
+      "#143ba6",
+      "#eff2fa",
+      "#111d55"
+    ],
+    "signature": "A rectangular aperture reveals the workspace through a depth-of-field transition; every UI surface remains straight.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The threshold",
+        "title": "Think beyond the frame.",
+        "body": "A monumental cobalt portal occupies the entire composition. Centered type crosses the sky, with an unobstructed architectural foreground.",
+        "motion": "A slow optical push towards the portal sets up the aperture reveal in the next product chapter.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "Explore the structure",
+        "title": "One platform. Many ways in.",
+        "body": "Find the right entry point for the work you want to do.",
+        "motion": "A wide menu aligns to the portal’s edges, with a useful product preview.",
+        "action": "Explore the platform menu"
+      },
+      {
+        "kind": "sources",
+        "name": "The foundation",
+        "title": "Build on what you know.",
+        "body": "Put source material where every agent can use it.",
+        "motion": "The source library occupies the opening, with one large document preview.",
+        "action": "Open a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "Open the frame",
+        "title": "Context without the walls.",
+        "body": "The research and analysis stay in view together.",
+        "motion": "The aperture widens into a full workspace; a soft foreground blur clears at the edges.",
+        "action": "Switch workspace views"
+      },
+      {
+        "kind": "artifact",
+        "name": "Clear perspective",
+        "title": "See what changes the decision.",
+        "body": "A comparison table makes the differences easy to review.",
+        "motion": "The table expands to the center, framed by the architecture instead of boxed over it.",
+        "action": "Inspect the result"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "The horizon",
+        "title": "Your next idea has room to grow.",
+        "body": "Make something worth opening up.",
+        "motion": "The product lowers, revealing the same open horizon beneath a centered action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A monumental cobalt portal occupies the entire composition. Centered type crosses the sky, with an unobstructed architectural foreground.",
+      "motion": "A slow optical push towards the portal sets up the aperture reveal in the next product chapter."
+    }
+  },
+  {
+    "id": "signal",
+    "number": "06",
+    "name": "Signal Atlas",
+    "category": "Light linework · connected evidence",
+    "group": "Graphic",
+    "layout": "signal",
+    "header": "solid",
+    "dark": false,
+    "graphic": "orbit",
+    "story": "research",
+    "result": "table",
+    "headline": "Find the thread.\nFollow it through.",
+    "subtitle": "Connect the details that turn a question into a clear answer.",
+    "thesis": "A populated evidence map replaces the empty cartography. Labeled sources and useful product details give the graphic a reason to exist.",
+    "source": "Cohere line drawings / OpenSwarm tethers",
+    "borrow": "Speakeasy’s character precision, without decorative typewriter captions. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "palette": [
+      "#fcfcfb",
+      "#233538",
+      "#acc4c5"
+    ],
+    "signature": "Selecting a source traces its path into the active answer, making context visible.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The question",
+        "title": "Find the thread. Follow it through.",
+        "body": "An asymmetric editorial opening: a clear statement at left, a large populated source diagram at right.",
+        "motion": "Lines travel between named source points. The graphic becomes source inspection in the next chapter.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "The evidence map",
+        "title": "See where the answer comes from.",
+        "body": "Open a source without leaving the question behind.",
+        "motion": "A selected connection brightens and its source opens in the adjacent pane.",
+        "action": "Select an evidence source"
+      },
+      {
+        "kind": "canvas",
+        "name": "The connected view",
+        "title": "Follow the work, not the tabs.",
+        "body": "Keep the research and the answer visible together.",
+        "motion": "The map contracts into the edges of a joined native workspace.",
+        "action": "Change workspace views"
+      },
+      {
+        "kind": "workflow",
+        "name": "A repeatable method",
+        "title": "Keep the process that works.",
+        "body": "Turn a useful research sequence into a reusable workflow.",
+        "motion": "A source-to-analysis timeline expands vertically into editable steps.",
+        "action": "Toggle workflow steps"
+      },
+      {
+        "kind": "artifact",
+        "name": "The conclusion",
+        "title": "An answer with a clear trail.",
+        "body": "A structured comparison keeps the evidence close.",
+        "motion": "The table comes forward while source connections remain visible at its edge.",
+        "action": "Inspect the comparison"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "A new thread",
+        "title": "Where will your next question lead?",
+        "body": "Bring it into OpenSwarm.",
+        "motion": "The linework converges around a centered prompt, with a clean compact footer.",
+        "action": "Start a new question"
+      }
+    ],
+    "opening": {
+      "mode": "diagram",
+      "composition": "An asymmetric editorial opening: a clear statement at left, a large populated source diagram at right.",
+      "motion": "Lines travel between named source points. The graphic becomes source inspection in the next chapter."
+    }
+  },
+  {
+    "id": "afterglow",
+    "number": "07",
+    "name": "Afterglow",
+    "category": "Dark coastal film · luminous product",
+    "group": "Dark",
+    "layout": "afterglow",
+    "header": "glass",
+    "dark": true,
+    "image": "/assets/storyboards/afterglow.webp",
+    "film": "/assets/storyboards/afterglow-motion.mp4",
+    "story": "launch",
+    "result": "brief",
+    "headline": "Your next idea\nhas room to grow.",
+    "subtitle": "A little space. A shared context. A whole new way to work.",
+    "thesis": "Retain the dark coast, but add a complete native product story and deliberate focus transitions so the atmosphere carries useful work.",
+    "source": "Nexora / Capy",
+    "borrow": "OpenSwarm’s dark neutral surfaces; the sampled anchored workspace transitions. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "palette": [
+      "#111719",
+      "#f4f4ec",
+      "#8a9b9f"
+    ],
+    "signature": "The scene stays alive while a translucent outer frame brings the dark native workspace into focus.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The atmosphere",
+        "title": "Your next idea has room to grow.",
+        "body": "An uninterrupted dark coastal film. The centered invitation sits low against the dusk, leaving most of the scene to breathe.",
+        "motion": "The coast remains alive behind still typography; the next scene brings the first glass product surface into focus.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "First light",
+        "title": "Give the idea a starting point.",
+        "body": "Ask for the plan, then see the work begin.",
+        "motion": "The composer opens into chat with the native ToolUI Plan, in a large dark surface.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "Bring the context",
+        "title": "Your files belong in the conversation.",
+        "body": "Keep notes, research and drafts together.",
+        "motion": "A source drawer slides out from the workspace; the landscape behind it softens.",
+        "action": "Inspect project sources"
+      },
+      {
+        "kind": "canvas",
+        "name": "A wider horizon",
+        "title": "Let the work open up.",
+        "body": "The same conversation and draft expand into a shared canvas.",
+        "motion": "The outer glass frame widens; the two opaque reading surfaces remain straight and legible.",
+        "action": "Toggle Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The useful outcome",
+        "title": "Something you can build on.",
+        "body": "A clear launch brief, ready for your judgment.",
+        "motion": "The finished brief brightens against the dark scene while the chat remains nearby.",
+        "action": "Read or download the brief"
+      },
+      {
+        "kind": "closing",
+        "name": "Another beginning",
+        "title": "There is more to make.",
+        "body": "Bring your next idea to OpenSwarm.",
+        "motion": "The result recedes into the scene; the horizon and centered action close the story.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "An uninterrupted dark coastal film. The centered invitation sits low against the dusk, leaving most of the scene to breathe.",
+      "motion": "The coast remains alive behind still typography; the next scene brings the first glass product surface into focus."
+    }
+  },
+  {
+    "id": "estuary",
+    "number": "08",
+    "name": "The Estuary",
+    "category": "Watercolor · source-to-result story",
+    "group": "Light",
+    "layout": "estuary",
+    "header": "line",
+    "dark": false,
+    "image": "/assets/storyboards/estuary.webp",
+    "story": "writing",
+    "result": "brief",
+    "headline": "Many thoughts.\nOne clear direction.",
+    "subtitle": "Bring your research together and find the work inside it.",
+    "thesis": "Hand-painted tributaries carry the visual metaphor from scattered sources to one clear document, using paper-native product surfaces.",
+    "source": "SEOmade watercolor footer",
+    "borrow": "Tasklify product hierarchy; the native file drawer.",
+    "palette": [
+      "#fbfaf5",
+      "#243e3d",
+      "#9dbbb6"
+    ],
+    "signature": "The painted edge dissolves into a full document surface; sources gather along one side.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The tributaries",
+        "title": "Many thoughts. One clear direction.",
+        "body": "A restrained serif headline across the top, a full painted estuary below. No interface covers the water.",
+        "motion": "Painted edges soften into the page, then give way to the source collection in the next chapter.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "Gather",
+        "title": "Bring the useful pieces together.",
+        "body": "Read notes and references from one source library.",
+        "motion": "Sources move into a single orderly drawer, while the illustration continues outside the app.",
+        "action": "Choose a source"
+      },
+      {
+        "kind": "request",
+        "name": "Find the current",
+        "title": "Give the material a direction.",
+        "body": "Turn the research into a first draft with a clear point of view.",
+        "motion": "A native response appears above the task plan, without decorative typing.",
+        "action": "Run the writing example"
+      },
+      {
+        "kind": "canvas",
+        "name": "Work in context",
+        "title": "Keep the source beside the sentence.",
+        "body": "Read, compare and write in the same workspace.",
+        "motion": "The page opens like a spread, with a narrow context rail and large editable result.",
+        "action": "Inspect the shared workspace"
+      },
+      {
+        "kind": "artifact",
+        "name": "The clear result",
+        "title": "A draft with something to say.",
+        "body": "Review the structure and decide what comes next.",
+        "motion": "The painted surroundings soften as the document moves into focus.",
+        "action": "Download the draft"
+      },
+      {
+        "kind": "closing",
+        "name": "The next current",
+        "title": "Let the next idea find its way.",
+        "body": "One workspace for your unfinished thinking.",
+        "motion": "The same watercolor becomes the footer edge, with useful links and no giant wordmark.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A restrained serif headline across the top, a full painted estuary below. No interface covers the water.",
+      "motion": "Painted edges soften into the page, then give way to the source collection in the next chapter."
+    }
+  },
+  {
+    "id": "skies",
+    "number": "09",
+    "name": "Other Skies",
+    "category": "Lilac architecture · layered portals",
+    "group": "Light",
+    "layout": "skies",
+    "header": "island",
+    "dark": false,
+    "image": "/assets/storyboards/skies.webp",
+    "story": "build",
+    "result": "app",
+    "headline": "Open a different\nkind of workspace.",
+    "subtitle": "Give your ideas the tools, context and space to become real.",
+    "thesis": "Different work surfaces occupy one inhabited landscape. Portals organize depth without tilting or shrinking the actual interface.",
+    "source": "Decagon / Meristem",
+    "borrow": "Native browser and app surfaces; spatial continuity from the video references. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "palette": [
+      "#dad8f2",
+      "#252441",
+      "#c1bfdc"
+    ],
+    "signature": "Doorway-shaped masks open into full native panes; an app preview comes through the center.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "A new opening",
+        "title": "Open a different kind of workspace.",
+        "body": "A pale-lilac editorial split: generous typography at left and a tall architectural image aperture at right.",
+        "motion": "The image aperture opens vertically before the site introduces its tools.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "apps",
+        "name": "Find your tools",
+        "title": "Every idea needs a few good tools.",
+        "body": "Connect what you use or create the app you need.",
+        "motion": "A native app grid fills the portal; selecting an app brings its details forward.",
+        "action": "Inspect an app"
+      },
+      {
+        "kind": "request",
+        "name": "Make the request",
+        "title": "Describe the thing you wish existed.",
+        "body": "Start with the job it should help you do.",
+        "motion": "The conversation opens from the composer into a large foreground window.",
+        "action": "Run the app-building example"
+      },
+      {
+        "kind": "canvas",
+        "name": "The shared space",
+        "title": "Build with the whole idea in view.",
+        "body": "Conversation, files and browser live in the same workspace.",
+        "motion": "The foreground window widens; a browser opens beside it at full reading scale.",
+        "action": "Switch workspace layouts"
+      },
+      {
+        "kind": "artifact",
+        "name": "Try the result",
+        "title": "A useful idea, made tangible.",
+        "body": "Explore the small tool and shape what it does next.",
+        "motion": "The browser preview expands through the center aperture.",
+        "action": "Use the sample task app"
+      },
+      {
+        "kind": "closing",
+        "name": "Another doorway",
+        "title": "What would you make next?",
+        "body": "OpenSwarm gives the idea somewhere to go.",
+        "motion": "The scene returns to its architectural depth around a centered action.",
+        "action": "Start again"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A pale-lilac editorial split: generous typography at left and a tall architectural image aperture at right.",
+      "motion": "The image aperture opens vertically before the site introduces its tools."
+    }
+  },
+  {
+    "id": "threshold",
+    "number": "10",
+    "name": "White Threshold",
+    "category": "Chalk architecture · generous light",
+    "group": "Light",
+    "layout": "threshold",
+    "header": "line",
+    "dark": false,
+    "image": "/assets/storyboards-v3/white-arch.webp",
+    "story": "operations",
+    "result": "schedule",
+    "headline": "Open space.\nClear progress.",
+    "subtitle": "Bring your team’s work into one connected view.",
+    "thesis": "White architecture and blue reflections create a structured light direction. A full product window fits the opening with architectural precision.",
+    "source": "Cobalt monument reference / Cohere",
+    "borrow": "Nexora’s section pacing; native workflow steps.",
+    "palette": [
+      "#f8fafb",
+      "#1d3445",
+      "#a3bbd1"
+    ],
+    "signature": "Horizontal shutters uncover a workflow, then reveal its result at the same anchor point.",
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The opening",
+        "title": "Open space. Clear progress.",
+        "body": "Symmetric white architecture and a centered statement, set in a quiet strip above the reflecting water.",
+        "motion": "The architectural view gently moves forward while the headline stays pinned to the page.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "Find your way",
+        "title": "A clear path into the platform.",
+        "body": "Choose a capability by the job you want to do.",
+        "motion": "The navigation opens into an architectural grid with product previews.",
+        "action": "Explore the mega menu"
+      },
+      {
+        "kind": "sources",
+        "name": "Shared context",
+        "title": "Start with the same information.",
+        "body": "Keep project notes, schedules and updates together.",
+        "motion": "A clear source drawer expands within the window, not over the landscape.",
+        "action": "Read a project source"
+      },
+      {
+        "kind": "workflow",
+        "name": "A working rhythm",
+        "title": "Make the recurring work flow.",
+        "body": "Set the steps once and keep the process visible.",
+        "motion": "A vertical workflow reveals each handoff as one connected sequence.",
+        "action": "Toggle workflow steps"
+      },
+      {
+        "kind": "artifact",
+        "name": "A visible plan",
+        "title": "Know what happens next.",
+        "body": "A schedule connects the work to its next action.",
+        "motion": "The schedule expands into the same central window with a soft contextual blur.",
+        "action": "Inspect the schedule"
+      },
+      {
+        "kind": "closing",
+        "name": "Keep moving",
+        "title": "Make space for better work.",
+        "body": "Start with the work in front of you.",
+        "motion": "The product recedes into the white opening; a compact footer follows the reflection line.",
+        "action": "Return to the first scene"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "Symmetric white architecture and a centered statement, set in a quiet strip above the reflecting water.",
+      "motion": "The architectural view gently moves forward while the headline stays pinned to the page."
+    }
+  },
+  {
+    "id": "current",
+    "name": "Current",
+    "category": "Cyan optics · edge-to-edge product",
+    "group": "Dark",
+    "layout": "current",
+    "header": "island",
+    "dark": true,
+    "image": "/assets/storyboards-v3/cyan-current.webp",
+    "story": "research",
+    "result": "table",
+    "headline": "Follow the idea.\nKeep the context.",
+    "subtitle": "A connected workspace for questions that deserve a deeper answer.",
+    "thesis": "An optical current leads the eye into a wide native workspace. The imagery has a physical relationship to the active pane.",
+    "source": "Meristem / Cohere",
+    "borrow": "Spectral material with a crisp dark native interface. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "signature": "A fluid mask uncovers the source drawer; the workspace stays fixed while its reading focus changes.",
+    "number": "11",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The current",
+        "title": "Follow the idea. Keep the context.",
+        "body": "A left-aligned statement beside a large, front-facing native source reader. Cyan optical material connects both halves.",
+        "motion": "The selected source changes within the reader, while the surrounding material shifts in soft focus.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "sources",
+        "name": "Go deeper",
+        "title": "Open the source, stay with the question.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source drawer pushes the conversation aside, keeping both readable.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "request",
+        "name": "Direct the research",
+        "title": "Ask for the differences that matter.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "A compact native tool group expands into a structured comparison plan.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "canvas",
+        "name": "Keep both views",
+        "title": "The question and the evidence, together.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workspace divides along the curve of the background while panes stay rectangular.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "Find the signal",
+        "title": "A clear comparison emerges.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The result table takes focus; the source column stays attached.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next current",
+        "title": "Keep the good questions coming.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The optical field passes behind a centered closing action and compact footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "sources",
+      "composition": "A left-aligned statement beside a large, front-facing native source reader. Cyan optical material connects both halves.",
+      "motion": "The selected source changes within the reader, while the surrounding material shifts in soft focus."
+    }
+  },
+  {
+    "id": "greenways",
+    "name": "Greenways",
+    "category": "Living green · wide photographic canvas",
+    "group": "Light",
+    "layout": "greenways",
+    "header": "solid",
+    "dark": false,
+    "image": "/assets/storyboards-v3/green-folds.webp",
+    "story": "operations",
+    "result": "schedule",
+    "headline": "Good work\nfinds a way.",
+    "subtitle": "Your tools, your team and your next step in one place.",
+    "thesis": "A rich landscape forms a broad lower stage while crisp white typography and product chapters supply structure.",
+    "source": "Cohere North",
+    "borrow": "Tasklify’s centered clarity; native workflow surfaces.",
+    "signature": "A landscape reveal follows the first scroll; workflow steps align with the visual path.",
+    "number": "12",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The path",
+        "title": "Good work finds a way.",
+        "body": "A bright centered introduction above a panoramic green landscape. One large document sits on the right of the lower scene.",
+        "motion": "The document rises from the landscape and expands into the review chapter.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "apps",
+        "name": "Connected tools",
+        "title": "Bring the tools you already use.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "The app library opens in a full-width white section, with a focused detail rail.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "workflow",
+        "name": "Set the rhythm",
+        "title": "Turn recurring work into a clear process.",
+        "body": "Make every step and handoff visible.",
+        "motion": "Steps reveal along one vertical line with visible state changes.",
+        "action": "Toggle a workflow step"
+      },
+      {
+        "kind": "canvas",
+        "name": "The whole project",
+        "title": "A shared view of the work.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workflow opens beside the conversation in a large unified shell.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The next step",
+        "title": "Make the plan easy to follow.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "A clear schedule moves forward while the green landscape softens behind it.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "Keep moving",
+        "title": "A little more room to do good work.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The landscape returns beneath centered copy and an understated footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "artifact",
+      "composition": "A bright centered introduction above a panoramic green landscape. One large document sits on the right of the lower scene.",
+      "motion": "The document rises from the landscape and expands into the review chapter."
+    }
+  },
+  {
+    "id": "higher",
+    "name": "Higher Ground",
+    "category": "Cloud panorama · soft optical depth",
+    "group": "Light",
+    "layout": "higher",
+    "header": "glass",
+    "dark": false,
+    "image": "/assets/storyboards-v3/cloud-sea.webp",
+    "story": "writing",
+    "result": "brief",
+    "headline": "See the idea\nmore clearly.",
+    "subtitle": "Space to research, write and connect the pieces.",
+    "thesis": "Cloud depth provides atmosphere while large, straight native windows establish clarity. Glass belongs to outer framing only.",
+    "source": "Tasklify cloud world / Cohere",
+    "borrow": "Meristem’s continuity through imagery and framing. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "signature": "A foreground cloud veil clears from the app; the same document grows through the story.",
+    "number": "13",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "A clearer view",
+        "title": "See the idea more clearly.",
+        "body": "Clouds fill a tall central image aperture. Typography stretches across its edges, creating a poster-like opening.",
+        "motion": "A slow upward drift through the cloud field precedes the native workspace.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "Begin",
+        "title": "Tell OpenSwarm what you are working on.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The app rises vertically from the cloud edge with no perspective tilt.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "Gather context",
+        "title": "Bring the references along.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "A native source list and full preview replace floating decorative files.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "Make connections",
+        "title": "Think across the whole project.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The shared window expands horizontally into a generous two-pane workspace.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The draft",
+        "title": "A clear shape for the idea.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The document comes forward while the cloud field remains soft and distant.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "More possibility",
+        "title": "See what comes next.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "Clouds open around a centered action and a restrained practical footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "Clouds fill a tall central image aperture. Typography stretches across its edges, creating a poster-like opening.",
+      "motion": "A slow upward drift through the cloud field precedes the native workspace."
+    }
+  },
+  {
+    "id": "blackglass",
+    "name": "Black Glass",
+    "category": "Obsidian architecture · sharp light",
+    "group": "Dark",
+    "layout": "blackglass",
+    "header": "line",
+    "dark": true,
+    "image": "/assets/storyboards-v3/black-prism.webp",
+    "story": "build",
+    "result": "app",
+    "headline": "From a thought\nto a thing.",
+    "subtitle": "A workspace for making the tools your work is missing.",
+    "thesis": "Dark architectural planes and a single luminous opening create a strong frame for a usable app-building story.",
+    "source": "Cobalt architecture / Capy",
+    "borrow": "Native browser panes and source-preserving transitions.",
+    "signature": "A hard rectangular mask opens around the product; soft blur separates the environment from the working app.",
+    "number": "14",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The possibility",
+        "title": "From a thought to a thing.",
+        "body": "A dark architectural film-still composition: oversized type on the left, a distant illuminated doorway on the right.",
+        "motion": "The doorway slowly sharpens as the page draws closer; the native workflow appears later.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "The brief",
+        "title": "Describe the tool you need.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The request develops into the real supplied ToolUI Plan at reading scale.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "apps",
+        "name": "Choose the pieces",
+        "title": "Connect what the tool needs.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "App details appear beside the library instead of in a modal pile.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "canvas",
+        "name": "Build in view",
+        "title": "Keep the build and the conversation together.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The browser expands beside the chat in a stable native split layout.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "Use it",
+        "title": "Make the idea useful.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The sample task app takes over the opening, with working controls.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next opening",
+        "title": "There is another way to work.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The dark threshold stays present around a small centered closing action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A dark architectural film-still composition: oversized type on the left, a distant illuminated doorway on the right.",
+      "motion": "The doorway slowly sharpens as the page draws closer; the native workflow appears later."
+    }
+  },
+  {
+    "id": "aperture",
+    "name": "Aperture",
+    "category": "Black and white · expanding frame",
+    "group": "Graphic",
+    "layout": "aperture",
+    "header": "solid",
+    "dark": true,
+    "graphic": "grid",
+    "story": "build",
+    "result": "app",
+    "headline": "Make room\nfor the work.",
+    "subtitle": "A canvas that expands with the thing you are making.",
+    "thesis": "The website’s main frame behaves like the product: it opens, divides, reunites and brings the result into focus.",
+    "source": "Cohere / supplied expanding-panel motion",
+    "borrow": "OpenSwarm layout controls and window anatomy.",
+    "signature": "Black shutters retract into the edges of a single full-scale app frame.",
+    "number": "15",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The frame",
+        "title": "Make room for the work.",
+        "body": "A black typographic poster with one enormous statement and a narrow horizontal window into the outside world.",
+        "motion": "The narrow image slit widens into the actual OpenSwarm recording in the later chapter.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "The index",
+        "title": "Every part of the platform, in view.",
+        "body": "Explore the platform through the work you want to do.",
+        "motion": "The solid masthead unfolds into a typographic mega menu and live preview.",
+        "action": "Open the Platform menu"
+      },
+      {
+        "kind": "request",
+        "name": "The starting point",
+        "title": "A useful tool starts with a clear need.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The opening frame widens to reveal the composer and a real plan component.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "film",
+        "name": "The native canvas",
+        "title": "Watch the workspace open up.",
+        "body": "Actual OpenSwarm product footage.",
+        "motion": "Actual OpenSwarm footage replaces the illustrative surface within the same frame.",
+        "action": "Play the native product recording"
+      },
+      {
+        "kind": "artifact",
+        "name": "The useful thing",
+        "title": "Now put the idea to work.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The frame expands into a sample app with working task controls.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "An open ending",
+        "title": "What will you make room for?",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "A final black frame holds centered copy and a small useful footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "type",
+      "composition": "A black typographic poster with one enormous statement and a narrow horizontal window into the outside world.",
+      "motion": "The narrow image slit widens into the actual OpenSwarm recording in the later chapter."
+    }
+  },
+  {
+    "id": "crossfade",
+    "name": "Crossfade",
+    "category": "Spectral diptych · joined workspaces",
+    "group": "Light",
+    "layout": "crossfade",
+    "header": "line",
+    "dark": false,
+    "image": "/assets/storyboards/living.webp",
+    "story": "writing",
+    "result": "brief",
+    "headline": "Different thoughts.\nShared direction.",
+    "subtitle": "Bring independent thinking into one connected workspace.",
+    "thesis": "A two-part composition becomes one reading surface. Spectral material links the sections without washing over the native interface.",
+    "source": "Meristem / Cohere split compositions",
+    "borrow": "Native joined conversation and document views.",
+    "signature": "Two image fields slide apart as two native workspaces meet at a shared edge.",
+    "number": "16",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "Two perspectives",
+        "title": "Different thoughts. Shared direction.",
+        "body": "Two deliberately different halves: spectral material in a tall panel at left and a clean typographic introduction at right.",
+        "motion": "The material crosses the central seam as the next chapter changes from references to writing.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "The material",
+        "title": "Start with more than one point of view.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source drawer provides a clear switch between references.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "request",
+        "name": "The synthesis",
+        "title": "Find the thread that connects them.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "A writing request opens into a structured native plan and visible source group.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "canvas",
+        "name": "The meeting point",
+        "title": "Work across both sides of the idea.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The two surfaces meet as one joined workspace with a shared header.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The common shape",
+        "title": "Something neither thought could make alone.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The finished document expands across the seam while context stays close.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "A new conversation",
+        "title": "Bring another perspective.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The diptych reconnects around a centered call to action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "Two deliberately different halves: spectral material in a tall panel at left and a clean typographic introduction at right.",
+      "motion": "The material crosses the central seam as the next chapter changes from references to writing."
+    }
+  },
+  {
+    "id": "relay",
+    "name": "Relay",
+    "category": "Dark linework · visible handoffs",
+    "group": "Graphic",
+    "layout": "relay",
+    "header": "island",
+    "dark": true,
+    "graphic": "orbit",
+    "story": "operations",
+    "result": "schedule",
+    "headline": "Keep the work\nmoving together.",
+    "subtitle": "Agents, tools and decisions connected from start to finish.",
+    "thesis": "The handoff is the visual identity. Labeled connections carry work between native surfaces and make each stage understandable.",
+    "source": "OpenSwarm tethers / Cohere diagrams",
+    "borrow": "Capy’s integrated dark workspace. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "signature": "A traveling connection reaches a pane just as its state changes; motion explains the handoff.",
+    "number": "17",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The handoff",
+        "title": "Keep the work moving together.",
+        "body": "A dark diagram occupies the upper-right field; a grounded headline at lower-left establishes the handoff story.",
+        "motion": "A visible pulse follows the diagram paths, making the direction of the handoff clear.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "workflow",
+        "name": "The sequence",
+        "title": "See how the pieces depend on each other.",
+        "body": "Make every step and handoff visible.",
+        "motion": "A native workflow opens with named steps and visible completion states.",
+        "action": "Toggle a workflow step"
+      },
+      {
+        "kind": "apps",
+        "name": "The connections",
+        "title": "Give each step the right tools.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "Selecting an app brings its capabilities into the adjacent detail pane.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "canvas",
+        "name": "The shared view",
+        "title": "Every handoff stays in context.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workflow and conversation align inside a unified dark window.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The outcome",
+        "title": "A plan with a clear next action.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The schedule comes forward while the final connection settles beside it.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "The next run",
+        "title": "Keep a good process going.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The connected field resolves into one centered action and useful links.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "diagram",
+      "composition": "A dark diagram occupies the upper-right field; a grounded headline at lower-left establishes the handoff story.",
+      "motion": "A visible pulse follows the diagram paths, making the direction of the handoff clear."
+    }
+  },
+  {
+    "id": "folio",
+    "name": "Open Folio",
+    "category": "Paper white · document-led composition",
+    "group": "Light",
+    "layout": "folio",
+    "header": "line",
+    "dark": false,
+    "graphic": "grid",
+    "story": "writing",
+    "result": "brief",
+    "headline": "Give the idea\na place to land.",
+    "subtitle": "Research, write and refine without losing the thread.",
+    "thesis": "Folded paper introduces the identity before the document becomes a working surface. A clean product anatomy gives the later chapters weight.",
+    "source": "Cohere editorial scale / native file view",
+    "borrow": "SEOmade’s restrained white page rhythm.",
+    "signature": "A real document tab unfolds into a full page while the chat stays in the margin.",
+    "number": "18",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The blank page",
+        "title": "Give the idea a place to land.",
+        "body": "A large editorial serif opening, fine page rules and a small paper-fold illustration. The product is withheld until the source chapter.",
+        "motion": "The paper fold opens at the margin, establishing the later document spread.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "The margin notes",
+        "title": "Keep the references within reach.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source drawer opens as a document margin with an adjacent preview.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "request",
+        "name": "The first pass",
+        "title": "Turn the notes into a clear draft.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The native plan develops above the composer without moving the page.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "canvas",
+        "name": "The working spread",
+        "title": "Write with the context beside you.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The page becomes a generous conversation/document spread.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The finished shape",
+        "title": "A draft you can take further.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The document expands to a readable full-width focus view.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "Another page",
+        "title": "Start the next chapter.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The final page closes into a quiet centered action and compact footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "type",
+      "composition": "A large editorial serif opening, fine page rules and a small paper-fold illustration. The product is withheld until the source chapter.",
+      "motion": "The paper fold opens at the margin, establishing the later document spread."
+    }
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "category": "Dark natural light · focused depth",
+    "group": "Dark",
+    "layout": "aurora",
+    "header": "glass",
+    "dark": true,
+    "image": "/assets/storyboards-v3/aurora.webp",
+    "story": "research",
+    "result": "table",
+    "headline": "Find clarity\nin the complex.",
+    "subtitle": "Bring the details into focus with a connected AI workspace.",
+    "thesis": "A photographic ribbon of light creates atmosphere around a crisp dark interface. The product is the brightest readable object.",
+    "source": "Nexora / Capy",
+    "borrow": "Meristem’s material continuity and native source panels. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "signature": "Focus passes from sources to synthesis as the background light stays continuous.",
+    "number": "19",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The signal",
+        "title": "Find clarity in the complex.",
+        "body": "An expansive aurora and ocean, with the headline offset high on the right. The landscape retains the center of gravity.",
+        "motion": "The photographic light drifts across the sky with a slow layered movement.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "The details",
+        "title": "Bring the evidence into view.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "A full source preview appears within the native window, with clear selected state.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "request",
+        "name": "The question",
+        "title": "Ask for a useful comparison.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "Grouped tool activity opens below the request in a readable dark pane.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "canvas",
+        "name": "The perspectives",
+        "title": "Look at the question from both sides.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The joined workspace reveals research and synthesis without changing anchors.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The clarity",
+        "title": "See the difference that matters.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "A neutral comparison table takes focus against the photographic light.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next signal",
+        "title": "Bring your next question.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The aurora continues above a centered call to action and small footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "An expansive aurora and ocean, with the headline offset high on the right. The landscape retains the center of gravity.",
+      "motion": "The photographic light drifts across the sky with a slow layered movement."
+    }
+  },
+  {
+    "id": "botanical",
+    "name": "Growing Ideas",
+    "category": "Botanical ink · connected branches",
+    "group": "Light",
+    "layout": "botanical",
+    "header": "island",
+    "dark": false,
+    "image": "/assets/storyboards-v3/botanical.webp",
+    "story": "launch",
+    "result": "brief",
+    "headline": "Give good ideas\nroom to grow.",
+    "subtitle": "One connected place for the thinking and work around them.",
+    "thesis": "Botanical linework gives branching research an organic structure while the actual workspace stays familiar and precise.",
+    "source": "SEOmade / Meristem",
+    "borrow": "Native shared sources and file tabs.",
+    "signature": "Fine branch strokes meet the source drawer, then withdraw as the document takes focus.",
+    "number": "20",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The seed",
+        "title": "Give good ideas room to grow.",
+        "body": "A centered botanical title surrounded by tall painted reeds. The cream paper and illustrated margins form one continuous page.",
+        "motion": "The two painted edges move apart subtly as the context chapter opens.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "The branches",
+        "title": "Find the part of OpenSwarm you need.",
+        "body": "Explore the platform through the work you want to do.",
+        "motion": "A light island menu opens into purposeful capabilities and an illustrated preview.",
+        "action": "Open the Platform menu"
+      },
+      {
+        "kind": "sources",
+        "name": "The roots",
+        "title": "A stronger idea starts with context.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source library gathers notes and references in one native drawer.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "The growth",
+        "title": "Let the project open out.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "A straight workspace grows horizontally into a shared conversation and plan.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The shape",
+        "title": "A clear plan for the next step.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The result stays large while botanical edges dissolve into paper.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "Keep growing",
+        "title": "There is more in that idea.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "Painted branches frame the centered closing action and useful footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A centered botanical title surrounded by tall painted reeds. The cream paper and illustrated margins form one continuous page.",
+      "motion": "The two painted edges move apart subtly as the context chapter opens."
+    }
+  },
+  {
+    "id": "assembly",
+    "name": "Assembly",
+    "category": "Dark modular · product architecture",
+    "group": "Dark",
+    "layout": "assembly",
+    "header": "solid",
+    "dark": true,
+    "graphic": "grid",
+    "story": "build",
+    "result": "app",
+    "headline": "Put the pieces\nto work.",
+    "subtitle": "Agents, apps and context. A workspace made for making.",
+    "thesis": "The page is assembled from substantial functional product surfaces. A modular graphic structure supports the build narrative.",
+    "source": "Cohere / native OpenSwarm",
+    "borrow": "Supplied anchored reflow videos.",
+    "signature": "Large modules dock into one shared shell, keeping their headers and content visible.",
+    "number": "21",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The pieces",
+        "title": "Put the pieces to work.",
+        "body": "A compact centered title above a substantial app library. Functional modules carry the visual identity from the start.",
+        "motion": "Selecting an app changes the attached detail panel without moving the surrounding shell.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "apps",
+        "name": "The parts",
+        "title": "Choose what the job needs.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "A native application library opens with a clear selected-app detail view.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "request",
+        "name": "The instructions",
+        "title": "Describe the missing tool.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "A build request becomes a concrete plan inside the same shell.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "workflow",
+        "name": "The assembly",
+        "title": "See how the work comes together.",
+        "body": "Make every step and handoff visible.",
+        "motion": "Steps connect vertically and respond as their state changes.",
+        "action": "Toggle a workflow step"
+      },
+      {
+        "kind": "artifact",
+        "name": "The working tool",
+        "title": "Now use what you made.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The browser module becomes a usable task app while retaining its tab bar.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next build",
+        "title": "Make something useful.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The modular frame resolves into a centered invitation and compact navigation.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "apps",
+      "composition": "A compact centered title above a substantial app library. Functional modules carry the visual identity from the start.",
+      "motion": "Selecting an app changes the attached detail panel without moving the surrounding shell."
+    }
+  },
+  {
+    "id": "tidal",
+    "name": "Tidal",
+    "category": "Light coast · horizontal chapter rail",
+    "group": "Light",
+    "layout": "tidal",
+    "header": "line",
+    "dark": false,
+    "image": "/assets/homepage-review/swarm-coast.webp",
+    "film": "/assets/homepage-review/swarm-coast-motion.mp4",
+    "story": "travel",
+    "result": "schedule",
+    "headline": "Bring the plan\ninto view.",
+    "subtitle": "Gather the details, compare the options and make the next move.",
+    "thesis": "A wide coastal image and a horizontal page rhythm organize the planning story. Product details stay large and front-facing.",
+    "source": "Tasklify / SEOmade",
+    "borrow": "Native calendar and source list structure.",
+    "signature": "Each chapter moves along the horizon while the product’s selected tab stays anchored.",
+    "number": "22",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The destination",
+        "title": "Bring the plan into view.",
+        "body": "A large coastline crop at left meets a paper column at right, with the headline and action arranged as a travel editorial.",
+        "motion": "The coastal film moves within its fixed crop; the planning interface enters in chapter two.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "The request",
+        "title": "Tell OpenSwarm what the plan needs.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The composer expands into a readable planning conversation.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "The details",
+        "title": "Keep the useful information together.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "Options appear in one source drawer with a detailed selection view.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "The whole plan",
+        "title": "See the choices beside the schedule.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workspace expands into an aligned source and schedule split.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The itinerary",
+        "title": "A plan that is easy to follow.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The schedule comes forward with selectable days and clear details.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next move",
+        "title": "Make room for what comes next.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The coastline continues into a centered footer without interface overlays.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A large coastline crop at left meets a paper column at right, with the headline and action arranged as a travel editorial.",
+      "motion": "The coastal film moves within its fixed crop; the planning interface enters in chapter two."
+    }
+  },
+  {
+    "id": "prism",
+    "name": "Prism Index",
+    "category": "Cobalt and paper · editorial image grid",
+    "group": "Graphic",
+    "layout": "prism",
+    "header": "solid",
+    "dark": false,
+    "image": "/assets/storyboards/monument.webp",
+    "story": "research",
+    "result": "table",
+    "headline": "A clearer view\nof every possibility.",
+    "subtitle": "Research across your tools, then bring the useful differences together.",
+    "thesis": "A precise editorial index introduces the platform with bold cobalt image crops and neutral product detail panels.",
+    "source": "Meristem brand grid / Cohere",
+    "borrow": "Native table and source switching. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "signature": "Image tiles become apertures for product details; one selected tile expands into the working view.",
+    "number": "23",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The index",
+        "title": "A clearer view of every possibility.",
+        "body": "A graphic three-image index beneath a short centered introduction. Each image provides a different way into the product story.",
+        "motion": "The selected visual opens its corresponding chapter; the hero itself contains no app mockup.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "Choose a way in",
+        "title": "The platform, clearly organized.",
+        "body": "Explore the platform through the work you want to do.",
+        "motion": "A structured mega menu pairs each capability with a useful visual preview.",
+        "action": "Open the Platform menu"
+      },
+      {
+        "kind": "sources",
+        "name": "Look closely",
+        "title": "Every source deserves a proper view.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The selected source expands from a row into the adjacent reading pane.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "Put it together",
+        "title": "Compare with the context intact.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The image grid resolves into a clear two-pane native workspace.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The distinction",
+        "title": "Make the differences easy to see.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "A broad comparison table replaces the preview tile without changing its anchor.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "A new view",
+        "title": "Open another possibility.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The cobalt grid becomes a restrained footer frame around the final action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "gallery",
+      "composition": "A graphic three-image index beneath a short centered introduction. Each image provides a different way into the product story.",
+      "motion": "The selected visual opens its corresponding chapter; the hero itself contains no app mockup."
+    }
+  },
+  {
+    "id": "silhouette",
+    "name": "Silhouette",
+    "category": "Black ASCII · architectural density",
+    "group": "ASCII",
+    "layout": "silhouette",
+    "header": "line",
+    "dark": true,
+    "graphic": "contour",
+    "story": "build",
+    "result": "app",
+    "headline": "An open system\nfor your ideas.",
+    "subtitle": "Work with AI, build useful tools, and keep the whole project together.",
+    "thesis": "A dense character-built aperture gives the opening structure and scale. Later chapters reveal the product within the same architectural frame.",
+    "source": "Speakeasy / cobalt monument reference",
+    "borrow": "Native browser and chat anatomy; no pixel-game rendering.",
+    "signature": "The character aperture grows around the straight app window and settles at its edges.",
+    "number": "24",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The silhouette",
+        "title": "An open system for your ideas.",
+        "body": "A dense architectural arch made entirely from text characters frames a central statement. No floating windows.",
+        "motion": "The character arch builds and releases its edges while retaining a sharply defined central opening.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "The first instruction",
+        "title": "Start with a job worth doing.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The composer develops into a readable chat and supplied plan component.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "apps",
+        "name": "The tools",
+        "title": "Bring the right capabilities together.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "A native app library occupies the character aperture with clear selected state.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "canvas",
+        "name": "The open view",
+        "title": "Keep the whole build visible.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The app shell opens horizontally while the character field retains its density.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The useful result",
+        "title": "A tool that belongs to your work.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "A working browser preview fills the aperture, with the chat still attached.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next shape",
+        "title": "What will you build into it?",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The character frame closes around a centered call to action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "ascii",
+      "composition": "A dense architectural arch made entirely from text characters frames a central statement. No floating windows.",
+      "motion": "The character arch builds and releases its edges while retaining a sharply defined central opening."
+    }
+  },
+  {
+    "id": "daybreak",
+    "name": "Daybreak",
+    "category": "White-to-dark coast · chapter contrast",
+    "group": "Light",
+    "layout": "daybreak",
+    "header": "solid",
+    "dark": false,
+    "image": "/assets/storyboards/afterglow.webp",
+    "film": "/assets/storyboards/afterglow-motion.mp4",
+    "story": "launch",
+    "result": "brief",
+    "headline": "A new way\nto get there.",
+    "subtitle": "From scattered thoughts to a clear next step, in one workspace.",
+    "thesis": "A bright editorial opening gives way to a dark scenic product chapter. Contrast creates pace while the same components provide continuity.",
+    "source": "Nexora section rhythm / Cohere",
+    "borrow": "OpenSwarm flat-to-canvas behavior.",
+    "signature": "A dark image band expands into a full scene as the native workspace grows from it.",
+    "number": "25",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The first light",
+        "title": "A new way to get there.",
+        "body": "A bold left-aligned statement on white paper, separated from the lower coastal film by a clean horizontal edge.",
+        "motion": "The dark film band expands upward when the work enters the story.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "The starting point",
+        "title": "Put the idea into words.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The native composer opens into a launch conversation inside the image band.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "The context",
+        "title": "Bring what you already know.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The app opens a source drawer without adding floating cards.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "The wider view",
+        "title": "Give the work room to happen.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The dark scene fills the frame as the workspace expands to two panes.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The clear step",
+        "title": "A plan worth moving forward with.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The neutral document brightens against the dark coast.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next morning",
+        "title": "Start something worth finishing.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "A white closing panel returns beneath the dark horizon with concise links.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A bold left-aligned statement on white paper, separated from the lower coastal film by a clean horizontal edge.",
+      "motion": "The dark film band expands upward when the work enters the story."
+    }
+  },
+  {
+    "id": "weave",
+    "name": "Weave",
+    "category": "Light ASCII · structured collective motion",
+    "group": "ASCII",
+    "layout": "weave",
+    "header": "glass",
+    "dark": false,
+    "graphic": "weave",
+    "story": "operations",
+    "result": "schedule",
+    "headline": "Separate threads.\nShared progress.",
+    "subtitle": "Bring your tools and recurring work into one connected system.",
+    "thesis": "Dense flowing glyphs form woven bands around meaningful workflow surfaces. The layout has rhythm, density and real product content.",
+    "source": "Speakeasy / OpenSwarm workflow tethers",
+    "borrow": "Cohere’s light geometric diagrams.",
+    "signature": "Character bands interlock as workflow steps connect, then open around the result.",
+    "number": "26",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The threads",
+        "title": "Separate threads. Shared progress.",
+        "body": "A fine woven character field fills the right side, balanced by a large left-aligned headline and clear action.",
+        "motion": "Glyph bands interlock along the right edge, then resolve into the workflow sequence.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "apps",
+        "name": "The connections",
+        "title": "Bring the tools into the same flow.",
+        "body": "Connect your tools and create focused apps for the task.",
+        "motion": "A native app list opens with an adjacent capability detail panel.",
+        "action": "Select an app and inspect its details"
+      },
+      {
+        "kind": "workflow",
+        "name": "The pattern",
+        "title": "Build a process you can follow.",
+        "body": "Make every step and handoff visible.",
+        "motion": "Steps join into one vertical sequence with visible state changes.",
+        "action": "Toggle a workflow step"
+      },
+      {
+        "kind": "canvas",
+        "name": "The shared work",
+        "title": "Keep every handoff in view.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workflow and chat dock into a wide stable workspace.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The progress",
+        "title": "Know what happens next.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The schedule resolves in the foreground while the weave stays at the edges.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "Continue",
+        "title": "Keep the useful work connected.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The glyph bands settle around a centered invitation and compact footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "ascii",
+      "composition": "A fine woven character field fills the right side, balanced by a large left-aligned headline and clear action.",
+      "motion": "Glyph bands interlock along the right edge, then resolve into the workflow sequence."
+    }
+  },
+  {
+    "id": "blueprint",
+    "name": "Blue Hour",
+    "category": "Architectural dusk · full-screen app stage",
+    "group": "Dark",
+    "layout": "bluehour",
+    "header": "glass",
+    "dark": true,
+    "image": "/assets/storyboards-v3/black-prism.webp",
+    "story": "operations",
+    "result": "schedule",
+    "headline": "A clear space\nfor complex work.",
+    "subtitle": "Agents and workflows that keep the context together.",
+    "thesis": "A cinematic architectural environment frames a product-heavy story. The interface occupies the center with confident scale.",
+    "source": "Cobalt architecture / Nexora",
+    "borrow": "Native dark workflow and layout anatomy. Spatial UI references: layered translucent chrome, detached rails, and soft depth around front-facing native content.",
+    "signature": "A foreground veil clears around a large workspace; handoffs shift focus without moving the entire stage.",
+    "number": "27",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The stage",
+        "title": "A clear space for complex work.",
+        "body": "A cinematic architectural panorama within a dark page frame. Headline and action sit low in the image, leaving the upper space open.",
+        "motion": "The architectural frame opens from the center; a soft foreground veil clears before the app chapter.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "menu",
+        "name": "The entry points",
+        "title": "Find the tools for your work.",
+        "body": "Explore the platform through the work you want to do.",
+        "motion": "A frosted mega menu reveals capabilities with an enlarged product preview.",
+        "action": "Open the Platform menu"
+      },
+      {
+        "kind": "workflow",
+        "name": "The process",
+        "title": "Put the recurring work in order.",
+        "body": "Make every step and handoff visible.",
+        "motion": "A native workflow fills the stage with clear steps and handoffs.",
+        "action": "Toggle a workflow step"
+      },
+      {
+        "kind": "canvas",
+        "name": "The context",
+        "title": "Keep the bigger picture readable.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The workflow joins its conversation inside one straight wide window.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The next action",
+        "title": "A shared plan for what comes next.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The schedule moves into focus while the surrounding scene remains softly lit.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next project",
+        "title": "Bring the complicated part.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The architecture opens around a centered closing action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "A cinematic architectural panorama within a dark page frame. Headline and action sit low in the image, leaving the upper space open.",
+      "motion": "The architectural frame opens from the center; a soft foreground veil clears before the app chapter."
+    }
+  },
+  {
+    "id": "airlight",
+    "name": "Airlight",
+    "category": "Cloud and paper · expansive native product",
+    "group": "Light",
+    "layout": "airlight",
+    "header": "island",
+    "dark": false,
+    "image": "/assets/storyboards-v3/cloud-sea.webp",
+    "story": "build",
+    "result": "app",
+    "headline": "Your ideas,\nwith more room.",
+    "subtitle": "A place to research, build and make the next thing happen.",
+    "thesis": "A large white product shell floats within a broad cloud field. The design earns lightness through scale and clear hierarchy, not emptiness.",
+    "source": "Tasklify / Cohere",
+    "borrow": "Native sidebar, file tabs and app preview.",
+    "signature": "The centered composer expands into a full desktop shell; the cloud layer fades behind opaque reading surfaces.",
+    "number": "28",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "Room to begin",
+        "title": "Your ideas, with more room.",
+        "body": "The workspace is the hero: a concise centered introduction above the largest native canvas in the collection.",
+        "motion": "The two panes open directly into Focus and Canvas views, with a restrained cloud backdrop.",
+        "action": "Explore the native product surface"
+      },
+      {
+        "kind": "request",
+        "name": "The possibility",
+        "title": "Describe the app you need.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The composer opens vertically into chat, tool groups and a supplied plan.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "The inputs",
+        "title": "Bring the details that make it yours.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "A file drawer opens inside the shell with a full preview.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "film",
+        "name": "The workspace",
+        "title": "See how OpenSwarm holds the project.",
+        "body": "Actual OpenSwarm product footage.",
+        "motion": "The actual canvas recording fills the same large frame.",
+        "action": "Play the native product recording"
+      },
+      {
+        "kind": "artifact",
+        "name": "The working idea",
+        "title": "Make something you can use.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "A task app opens inside the native browser pane with working controls.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "A little more space",
+        "title": "Make room for the next thing.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The shell fades into the lower cloud bank beneath a centered action.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "product",
+      "product": "canvas",
+      "composition": "The workspace is the hero: a concise centered introduction above the largest native canvas in the collection.",
+      "motion": "The two panes open directly into Focus and Canvas views, with a restrained cloud backdrop."
+    }
+  },
+  {
+    "id": "continuum",
+    "name": "Continuum",
+    "category": "Immersive cyan · persistent workspace",
+    "group": "Dark",
+    "layout": "continuum",
+    "header": "line",
+    "dark": true,
+    "image": "/assets/storyboards-v3/cyan-current.webp",
+    "story": "writing",
+    "result": "brief",
+    "headline": "Keep thinking.\nKeep the context.",
+    "subtitle": "A workspace that holds the whole thread, from research to finished work.",
+    "thesis": "A flowing optical opening leads into one continuous product surface. The background shifts its emphasis while the work retains its place.",
+    "source": "Meristem / supplied continuity motion",
+    "borrow": "Native context drawer and document split view. Supplied Evidence Lab: dense, legible panels and a visible relationship between sources and results.",
+    "signature": "The same window persists across every chapter; only its internal layout and focus change.",
+    "number": "29",
+    "palette": [
+      "#10171c",
+      "#f4f5f6",
+      "#82aab7"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The thread",
+        "title": "Keep thinking. Keep the context.",
+        "body": "Full-bleed cyan optical material and a short, centered statement. The opening is an immersive moving identity surface.",
+        "motion": "A slow optical drift carries into the later workspace without replacing the visual environment.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "request",
+        "name": "The first thought",
+        "title": "Start wherever the idea is.",
+        "body": "Give the work a clear starting point, then follow its progress.",
+        "motion": "The same composer expands into a writing conversation.",
+        "action": "Run the sample request"
+      },
+      {
+        "kind": "sources",
+        "name": "The context",
+        "title": "Keep the reference with the thought.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source drawer opens from the current window, preserving the conversation.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "canvas",
+        "name": "The continuation",
+        "title": "Write across the whole project.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The document opens alongside the chat within one shared shell.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The result",
+        "title": "A clearer version of the idea.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The document takes focus while its source and conversation remain attached.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "evidence",
+        "name": "Inside a real app",
+        "title": "The detail is the difference.",
+        "body": "A closer look at the supplied OpenSwarm Evidence Lab.",
+        "motion": "The actual app capture opens at a useful scale. Switch between the two supplied views and scroll through the interface.",
+        "action": "Inspect both supplied Evidence Lab views"
+      },
+      {
+        "kind": "closing",
+        "name": "The next thread",
+        "title": "There is always more to connect.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The same window settles beneath a centered closing action and compact footer.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "image",
+      "composition": "Full-bleed cyan optical material and a short, centered statement. The opening is an immersive moving identity surface.",
+      "motion": "A slow optical drift carries into the later workspace without replacing the visual environment."
+    }
+  },
+  {
+    "id": "confluence",
+    "name": "Confluence",
+    "category": "Painted landscape · rich product spread",
+    "group": "Light",
+    "layout": "confluence",
+    "header": "solid",
+    "dark": false,
+    "image": "/assets/storyboards-v3/botanical.webp",
+    "story": "research",
+    "result": "table",
+    "headline": "Bring it together.\nSee what changes.",
+    "subtitle": "Connect independent sources and find a clearer way forward.",
+    "thesis": "A richly painted landscape anchors a dense, useful research story. Native sources and comparisons provide the structure.",
+    "source": "SEOmade / Cohere editorial spreads",
+    "borrow": "Native source previews and table comparison.",
+    "signature": "Sources gather along a painted river edge; the result grows into a full-width product spread.",
+    "number": "30",
+    "palette": [
+      "#fafbf9",
+      "#243333",
+      "#a8bfcd"
+    ],
+    "frames": [
+      {
+        "kind": "hero",
+        "name": "The meeting point",
+        "title": "Bring it together. See what changes.",
+        "body": "An offset watercolor editorial spread with a large headline at upper-left and three painted apertures across the lower page.",
+        "motion": "The three image apertures lead to sources, the shared canvas and the resulting document.",
+        "action": "Continue into the product story"
+      },
+      {
+        "kind": "sources",
+        "name": "Different sources",
+        "title": "More than one way to understand it.",
+        "body": "Keep the original material beside the work it informs.",
+        "motion": "The source library opens with clear selected states and a generous preview.",
+        "action": "Select and inspect a source"
+      },
+      {
+        "kind": "menu",
+        "name": "Explore the platform",
+        "title": "Find a useful way into the work.",
+        "body": "Explore the platform through the work you want to do.",
+        "motion": "The solid header expands into a full capability index with a live visual preview.",
+        "action": "Open the Platform menu"
+      },
+      {
+        "kind": "canvas",
+        "name": "The connected picture",
+        "title": "Keep the differences in view.",
+        "body": "Conversation, context and output stay connected.",
+        "motion": "The source library and conversation form one expansive workspace.",
+        "action": "Switch Focus and Canvas"
+      },
+      {
+        "kind": "artifact",
+        "name": "The useful distinction",
+        "title": "A comparison you can work with.",
+        "body": "Review the result with its sources still within reach.",
+        "motion": "The table expands along the river line while painted edges recede.",
+        "action": "Explore or download the result"
+      },
+      {
+        "kind": "closing",
+        "name": "The next possibility",
+        "title": "See what comes together next.",
+        "body": "One workspace for your ideas, agents and apps.",
+        "motion": "The landscape carries through the compact footer around a centered invitation.",
+        "action": "Return to the opening"
+      }
+    ],
+    "opening": {
+      "mode": "gallery",
+      "composition": "An offset watercolor editorial spread with a large headline at upper-left and three painted apertures across the lower page.",
+      "motion": "The three image apertures lead to sources, the shared canvas and the resulting document."
+    }
+  }
+]

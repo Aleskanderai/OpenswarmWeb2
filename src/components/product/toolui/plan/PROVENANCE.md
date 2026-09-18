@@ -1,0 +1,3 @@
+Copied from the user's openswarm-components/toolui/components/plan export (Open Swarm UI Template v1.7.7). plan.tsx, progress.ts and schema.ts retain source behavior. The adapter maps primitives to this repository's Base UI and semantic HTML, instead of adding a second UI dependency. LICENSE.md is the exact MIT notice supplied with this local export. Parent provenance applies to its separately sourced OptionList; this Plan copy has its own upstream notice.
+
+Integration adjustments: local Base UI/semantic adapters; removed deprecated Zod `.finite()` (Zod 4 excludes infinities by default); retained the upstream entrance animation with a narrow React compiler lint exemption. Source-derived plan styles are scoped by the storyboard.
